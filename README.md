@@ -1,0 +1,2 @@
+# Sales-Insight-using-MySQl-and-PowerBI
+This Case study was based on Computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in Data Analysis project and he would like to build a Power BI Dashboard that can give him real time sales insights. Operations performed: AIMS Grid for Planning, Exploring Data insights using MySQL, Data Cleaning And ETL(Extract, Transform, Load) in PowerBI, Building Dashboard.  
